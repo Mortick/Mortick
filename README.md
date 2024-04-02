@@ -1,8 +1,3 @@
-<div align="right">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sophia-qing-chen-7a8936135/)
-
-</div>
 <div align="center">
 
 # 🌱 Sophia Chen
@@ -17,9 +12,11 @@ Who I am:
 📊 Data driven
 
 Working on or learning:
-- AWS
-- AI / Deep Learning
+🌲 AWS
+🔮 AI / Deep Learning
 
+How to reach me:
+[LinkedIn](https://www.linkedin.com/in/sophia-qing-chen-7a8936135/)
 ```
 
 ## Skills
