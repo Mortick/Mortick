@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌱 Sophia Chen
+# 🌱 Qing Chen
 
 </div>
 
